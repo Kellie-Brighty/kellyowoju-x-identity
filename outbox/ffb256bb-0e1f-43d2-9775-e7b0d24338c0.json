@@ -1,0 +1,1 @@
+{"type":"post-x","text":"A Claude Code agent deleted 48k files in under 2 min this week -- not going rogue, just walking Windows junctions like real folders during cleanup. Junctions aren't symlinks, they don't prompt. Right now 'push to git first' does more safety work than any agent guardrail."}
