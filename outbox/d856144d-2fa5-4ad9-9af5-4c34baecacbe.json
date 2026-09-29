@@ -1,0 +1,1 @@
+{"type":"post-x","text":"jevmem shipped a memory-poisoning check for Claude Code's persistent project memory -- screens lines from teammates, PRs, even your own old sessions before they hit context. Caught 20/22 planted bad lines, 0 false blocks on real ones. Agent memory needs trust boundaries too."}
