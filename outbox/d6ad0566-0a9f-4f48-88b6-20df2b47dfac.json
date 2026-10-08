@@ -1,0 +1,1 @@
+{"type": "post-x", "text": "Chrome DevTools shipped an MCP server for AI agents this month -- one flag, --no-javascript-evaluation, lets an agent inspect a page without ever running JS on it. That's the right shape for agent security: strip capabilities per tool, not grant one blanket permission."}
