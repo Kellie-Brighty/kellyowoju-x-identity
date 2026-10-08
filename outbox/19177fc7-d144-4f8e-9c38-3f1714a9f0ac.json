@@ -1,0 +1,1 @@
+{"type":"post-x","text":"npm 12 quietly turned off lifecycle install scripts by default -- preinstall/postinstall from deps won't run unless you opt in. GitHub calls it npm's single largest code-execution surface. The CHANGELOG didn't even flag it as breaking."}
