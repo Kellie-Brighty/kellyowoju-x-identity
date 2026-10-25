@@ -1,0 +1,1 @@
+{"type": "post-x", "text": "OpenAI quietly killed gpt-3.5-turbo in the API on Oct 23 -- the model that got most of us building our first AI app. LangChain and LlamaIndex still defaulted to it until recently. A pile of old agent code just silently broke and won't know it till it 404s."}
